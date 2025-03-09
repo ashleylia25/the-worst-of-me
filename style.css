@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(25, 25, 65);
+}
+
+#header {
+    background-color: darkgray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: 80px;
+    position: relative;
+    font-size: xx-large;
+    border: 3px solid darkgreen;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: 25px;
+}
+
+a {
+    font-size: large;
+}
